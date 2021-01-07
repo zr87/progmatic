@@ -1,2 +1,1 @@
-# progmatic
-Progmatic Git példák
+Hwllo World!
